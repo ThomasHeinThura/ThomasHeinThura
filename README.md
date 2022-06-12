@@ -1,9 +1,14 @@
- # HELLO THERE
+# HELLO THERE ![R2](https://emojis.slackmojis.com/emojis/images/1450319458/132/r2d2.png)
+<p align="center">
+ <img width="460" height="460" src="https://i.pinimg.com/originals/9d/a2/71/9da27155e8c22d0726d9ed35252e8316.png"
+</p>
  
-- 👋 Hello There! I am **Thomas Hein Thura** , my native name is Hein Thura. I Live in Yangon, Myanmar, which is in Asia. 
-- 👀 I’m interested in Programming and Deep Learning. I am also Linux Enthusiast.
-- 🌱 I’m currently learning Python, C++ and Tensorflow through Linux systems.  
-- 📫 You can reach me through Gmail - alexzander125.alex@gmail.com or hanthuralin@gmail.com
+ 
+  👋 Hello There!
+ - I am **Thomas Hein Thura**. I Live in Yangon, Myanmar, which is in Asia. 
+ - 👀 I’m interested in Programming and Deep Learning. I am also Linux Enthusiast.
+ - 🌱 I’m currently learning Python, C++ and Tensorflow through Linux systems.  
+ - 📫 You can reach me through Gmail - alexzander125.alex@gmail.com or hanthuralin@gmail.com
 
  ### My Future Projects 
 <details><summary><b>Bug Tracker</b></summary>
