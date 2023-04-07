@@ -16,7 +16,6 @@
 - Conky (Finish)
 - Personal Linux config (Finish)
 - Tensorflow useful functions (on hold - still progression)
-- 
 
 ### Current working on :
 - Kaggle competition on Parkinson’s Freezing of Gait Prediction.
