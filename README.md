@@ -7,7 +7,7 @@
   👋 Hello There!
  - I am **Thomas Hein Thura**. I Live in Yangon, Myanmar, which is in Asia. 
  - 👀 I’m interested in Programming and Deep Learning. I am also Linux Enthusiast.
- - 🌱 I’m currently learning Python, C++ and Tensorflow through Linux systems.  
+ - 🌱 I’m currently doing projects on AI, Python, C++ and Tensorflow through Linux systems.  
  - 📫 You can reach me through Gmail - alexzander125.alex@gmail.com or hanthuralin@gmail.com
 
 ### Finished or on hold projects
