@@ -20,6 +20,7 @@
 ### Current working on :
 - Kaggle competition on Parkinson’s Freezing of Gait Prediction.
 - UW-Madison GI Tract Image Segmentation.
+- ASW CI/CD pipeline.
 <!---
 ThomasHeinThura/ThomasHeinThura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
