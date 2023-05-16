@@ -11,7 +11,7 @@
  - 📫 You can reach me through Gmail - alexzander125.alex@gmail.com or hanthuralin@gmail.com
 
 ### Finished or on hold projects
-- 𝐓𝐞𝐧𝐬𝐨𝐫𝐅𝐥𝐨𝐰 𝟏𝟐 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 (Finish)
+- 𝐓𝐞𝐧𝐬𝐨𝐫𝐅𝐥𝐨𝐰 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 (Finish)
 - 𝐅𝐫𝐚𝐮𝐝 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 (Finish)
 - Conky (Finish)
 - Personal Linux config (Finish)
