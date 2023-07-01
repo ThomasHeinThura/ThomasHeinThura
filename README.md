@@ -10,17 +10,24 @@
  - 🌱 I’m currently doing projects on AI, Python, C++ and Tensorflow through Linux systems.  
  - 📫 You can reach me through Gmail - alexzander125.alex@gmail.com or hanthuralin@gmail.com
 
-### Finished or on hold projects
-- 𝐓𝐞𝐧𝐬𝐨𝐫𝐅𝐥𝐨𝐰 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 (Finish)
-- 𝐅𝐫𝐚𝐮𝐝 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 (Finish)
-- Conky (Finish)
-- Personal Linux config (Finish)
-- Tensorflow useful functions (on hold - still progression)
 
-### Current working on :
-- Kaggle competition on Parkinson’s Freezing of Gait Prediction.
-- UW-Madison GI Tract Image Segmentation.
-- ASW CI/CD pipeline.
+### On going projects
+1. ETL and CI/CD pipeline fraud detection website (ongoing)
+2. test_CI_CD (ongoing)
+3. UW-Madison-GI-Tract(ongoing)
+4. brain tumor detection(ongoing)
+
+### Finish project
+1. Insurance_company_premium(finish)    - clean code is needed
+2. Credit-Card-Fraud-Detection(finish)  - clean code and test on another dataset
+3. Tensorflow 12 projects(finish)       - clean code is needed 
+4. Tensorflow functions(finish)         - full cleaning of the code is needed. 
+5. Conkyrc(finish)
+6. Kaggle competition on Parkinson’s Freezing of Gait Prediction(finish)
+                                        - clean code from Kaggle competition and upload it to GitHub
+8. personal-Linux-config                - backup from the laptop is needed 
+9. Personal website (ETL pipeline is under construction) (text summarization model is integrated into a website)
+
 <!---
 ThomasHeinThura/ThomasHeinThura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
