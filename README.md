@@ -14,38 +14,38 @@
 
 **📍 About Me**
 
-I specialize in **Kubernetes, WSO2 middleware, DevOps, and AI-driven data engineering**, with a strong focus on **building scalable, high-availability enterprise systems** in regulated industries like **banking, retail, and healthcare**.
-•	🛠 **Expert in:** Kubernetes, WSO2 APIM/MI, ELK Stack, DevOps, Cloud, and Data Pipelines
-•	🏗 **Experienced in:** Microservices, API Management, Hybrid Cloud, High-Availability Deployments
-•	📊 **Passionate about:** AI, Deep Learning, MLOps, and real-time analytics solutions
-🔗 **Let’s connect!** [LinkedIn](https://www.linkedin.com/in/thomasheinthura/)
+I specialize in **Kubernetes, WSO2 middleware, DevOps, and AI-driven data engineering**, with a strong focus on **building scalable, high-availability enterprise systems** in regulated industries like **banking, retail, and healthcare**.  
+•	🛠 **Expert in:** Kubernetes, WSO2 APIM/MI, ELK Stack, DevOps, Cloud, and Data Pipelines.  
+•	🏗 **Experienced in:** Microservices, API Management, Hybrid Cloud, High-Availability Deployments.  
+•	📊 **Passionate about:** AI, Deep Learning, MLOps, and real-time analytics solutions.  
+🔗 **Let’s connect!** [LinkedIn](https://www.linkedin.com/in/thomasheinthura/)  
 
-**⚡ Technical Expertise**
+**⚡ Technical Expertise** 
 
-•	**Middleware & API Management**: WSO2 APIM, Micro Integrator, Identity Server
-•	**DevOps & Kubernetes**: Kubernetes (multi-cloud & on-prem), Helm, CI/CD Pipelines, GitOps
-•	**Monitoring & Observability**: ELK Stack, Grafana, Prometheus
-•	**Databases & Data Engineering**: PostgreSQL, MS SQL Server, MySQL, ETL/ELT Pipelines
-•	**Cloud & AI**: Azure, MLOps, TensorFlow, Python
+•	**Middleware & API Management**: WSO2 APIM, Micro Integrator, Identity Server  
+•	**DevOps & Kubernetes**: Kubernetes (multi-cloud & on-prem), Helm, CI/CD Pipelines, GitOps  
+•	**Monitoring & Observability**: ELK Stack, Grafana, Prometheus  
+•	**Databases & Data Engineering**: PostgreSQL, MS SQL Server, MySQL, ETL/ELT Pipelines  
+•	**Cloud & AI**: Azure, MLOps, TensorFlow, Python  
 
 **🏆 Certifications**
 
-✔ Kubernetes Certified (CKA, CKAD)
-✔ Azure AI Engineer Associate
-✔ Google TensorFlow Developer
-✔ WSO2 API Manager & Micro Integrator Certified
+✔ Kubernetes Certified (CKA, CKAD)  
+✔ Azure AI Engineer Associate  
+✔ Google TensorFlow Developer  
+✔ WSO2 API Manager & Micro Integrator Certified  
 
 
 
-**📬 Contact & Collaboration**
+**📬 Contact & Collaboration**  
 
-📧 **Email:** thomasheinthura@gmail.com
+📧 **Email:** thomasheinthura@gmail.com  
 
-💼 **LinkedIn:** [linkedin.com/in/thomasheinthura](https://www.linkedin.com/in/thomasheinthura/)
+💼 **LinkedIn:** [linkedin.com/in/thomasheinthura](https://www.linkedin.com/in/thomasheinthura/)  
 
-🔗 **GitHub:** [github.com/thomasheinthura](https://github.com/thomasheinthura)
+🔗 **GitHub:** [github.com/thomasheinthura](https://github.com/thomasheinthura)  
 
-Let’s collaborate on **cutting-edge Kubernetes, WSO2, and AI projects!** 🚀
+Let’s collaborate on **cutting-edge Kubernetes, WSO2, and AI projects!** 🚀  
 
 <!---
 ThomasHeinThura/ThomasHeinThura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
