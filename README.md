@@ -5,28 +5,45 @@
  
  
   👋 Hello There!
- - I am **Thomas Hein Thura**. I Live in Yangon, Myanmar, which is in Asia. 
- - 👀 I’m interested in Programming and Deep Learning. I am also Linux Enthusiast.
- - 🌱 I’m currently doing projects on AI, Python, C++ and Tensorflow through Linux systems.  
- - 📫 You can reach me through Gmail - alexzander125.alex@gmail.com or hanthuralin@gmail.com
+ **🚀 Thomas Hein Thura**
+🔹 **Technical Manager | Kubernetes | WSO2 | DevOps | AI & Data Engineering**
+🔹 **Building Scalable, Secure, and Resilient Enterprise Solutions**
+---
+
+**📍 About Me**
+
+I specialize in **Kubernetes, WSO2 middleware, DevOps, and AI-driven data engineering**, with a strong focus on **building scalable, high-availability enterprise systems** in regulated industries like **banking, retail, and healthcare**.
+•	🛠 **Expert in:** Kubernetes, WSO2 APIM/MI, ELK Stack, DevOps, Cloud, and Data Pipelines
+•	🏗 **Experienced in:** Microservices, API Management, Hybrid Cloud, High-Availability Deployments
+•	📊 **Passionate about:** AI, Deep Learning, MLOps, and real-time analytics solutions
+🔗 **Let’s connect!** [LinkedIn](https://www.linkedin.com/in/thomasheinthura/)
+
+**⚡ Technical Expertise**
+
+•	**Middleware & API Management**: WSO2 APIM, Micro Integrator, Identity Server
+•	**DevOps & Kubernetes**: Kubernetes (multi-cloud & on-prem), Helm, CI/CD Pipelines, GitOps
+•	**Monitoring & Observability**: ELK Stack, Grafana, Prometheus
+•	**Databases & Data Engineering**: PostgreSQL, MS SQL Server, MySQL, ETL/ELT Pipelines
+•	**Cloud & AI**: Azure, MLOps, TensorFlow, Python
+
+**🏆 Certifications**
+
+✔ Kubernetes Certified (CKA, CKAD)
+✔ Azure AI Engineer Associate
+✔ Google TensorFlow Developer
+✔ WSO2 API Manager & Micro Integrator Certified
 
 
-### On going projects
-1. ETL and CI/CD pipeline fraud detection website (ongoing)
-2. test_CI_CD (ongoing)
-3. UW-Madison-GI-Tract(ongoing)
-4. brain tumor detection(ongoing)
 
-### Finish project
-1. Insurance_company_premium(finish)    - clean code is needed
-2. Credit-Card-Fraud-Detection(finish)  - clean code and test on another dataset
-3. Tensorflow 12 projects(finish)       - clean code is needed 
-4. Tensorflow functions(finish)         - full cleaning of the code is needed. 
-5. Conkyrc(finish)
-6. Kaggle competition on Parkinson’s Freezing of Gait Prediction(finish)
-                                        - clean code from Kaggle competition and upload it to GitHub
-8. personal-Linux-config                - backup from the laptop is needed 
-9. Personal website (ETL pipeline is under construction) (text summarization model is integrated into a website)
+**📬 Contact & Collaboration**
+
+📧 **Email:** thomasheinthura@gmail.com
+
+💼 **LinkedIn:** [linkedin.com/in/thomasheinthura](https://www.linkedin.com/in/thomasheinthura/)
+
+🔗 **GitHub:** [github.com/thomasheinthura](https://github.com/thomasheinthura)
+
+Let’s collaborate on **cutting-edge Kubernetes, WSO2, and AI projects!** 🚀
 
 <!---
 ThomasHeinThura/ThomasHeinThura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
