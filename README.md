@@ -4,11 +4,13 @@
 </p>
  
  
-  👋 Hello There!
- **🚀 Thomas Hein Thura**
-🔹 **Technical Manager | Kubernetes | WSO2 | DevOps | AI & Data Engineering**
-🔹 **Building Scalable, Secure, and Resilient Enterprise Solutions**
+  👋 Hello There!  
 ---
+
+
+  **🚀 I am Thomas Hein Thura**  
+ 🔹 **Technical Manager | Kubernetes | WSO2 | DevOps | AI & Data Engineering**  
+ 🔹 **Building Scalable, Secure, and Resilient Enterprise Solutions**  
 
 **📍 About Me**
 
