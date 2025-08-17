@@ -7,32 +7,25 @@
 
 
   **🚀 I am Thomas Hein Thura**  
- 🔹 **Technical Manager & Microsoft Certified Trainer (MCT) | Kubernetes, WSO2 & Cloud-Native Architect** 
+ 🔹 **Technical Manager & Microsoft Certified Trainer (MCT) | Kubernetes, WSO2 & Cloud-Native Architect**   
 
+I am a results-driven Technical Manager and **Microsoft Certified Trainer (MCT)** with deep expertise in architecting and operating enterprise-grade platforms across **Kubernetes, DevOps, API Management, and Data Engineering**. I specialize in designing scalable, secure, and highly available infrastructure in hybrid, multi-cloud, and on-premises environments for mission-critical industries like banking, telecom, and media.  
 
-**📍 About Me**
-
-I am a Technical Manager and Microsoft Certified Trainer (MCT) specializing in architecting the high-performance, resilient infrastructure that powers modern enterprises. My expertise lies at the intersection of Kubernetes, WSO2 middleware, and multi-cloud DevOps, where I lead strategic initiatives to modernize legacy systems and build scalable, secure solutions for mission-critical industries.  
-
- * 🏗️ I build: Scalable, cloud-native systems on Kubernetes (EKS, AKS, On-Premise) and design enterprise-grade API ecosystems with WSO2.  
-
- * 🚀 I specialize in: Migrating monolithic applications to microservices, implementing Infrastructure as Code (Terraform), and building robust GitOps CI/CD pipelines (Argo CD).  
-
- * 📊 I am passionate about: Full-stack observability (ELK, Prometheus), data integrity, and architecting solutions that are both powerful and maintainable.  
-
- * 👨‍🏫 As an MCT, I am dedicated to empowering technical teams with the skills needed to manage and innovate upon cutting-edge cloud technologies.  
-
+- 🏗️ **Platform Engineering:** I build and lead the development of robust, production-grade Kubernetes clusters (EKS, AKS, Arc-enabled) and modernize legacy systems by migrating them to cloud-native microservices. A key project involved deploying WSO2 on AWS Kubernetes for a major streaming platform, **cutting API latency by over 70%**.
+- 🚀 **DevOps & GitOps:** I architect modern CI/CD pipelines grounded in GitOps principles (Argo CD, FluxCD) and Infrastructure as Code (Terraform, Crossplane) to automate and accelerate the software delivery lifecycle.  
+- 🔐 **Security & Observability:** I implement comprehensive security and observability stacks, utilizing tools like Cilium and Kyverno for policy enforcement and the ELK Stack, Prometheus, and Grafana for full-stack monitoring.  
+- 👨‍🏫 **Leadership & Mentorship:** As an MCT, I am passionate about empowering technical teams. I have led a cross-functional team of 11 engineers, mentored 7+ interns in DevOps and DBA roles, and delivered over a dozen technical training sessions on Kubernetes, WSO2, and cloud technologies.  
 ---
-
-### 🛠️ My Tech Stack
+### 🛠️ My Technical Skillset
 
 | Category | Technologies |
 | --- | --- |
-| **Containerization & Orchestration** | Kubernetes, Docker, Helm, EKS, AKS, OpenShift |
-| **Middleware & API Management** | WSO2 API Manager, WSO2 Micro Integrator, WSO2 Identity Server |
-| **Cloud & DevOps** | Azure, AWS, Terraform, Argo CD, Jenkins, Git, CI/CD |
-| **Monitoring & Observability** | ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus, Grafana |
-| **Databases & Data Engineering** | MS SQL Server, PostgreSQL, MySQL, MariaDB, SSIS, SSRS |
+| **Containerization & Orchestration** | Kubernetes (EKS, AKS, Arc-enabled), OpenShift, Docker, Helm, Kustomize, MetalLB, Karmada |
+| **API & Middleware** | WSO2 API Manager (APIM), Micro Integrator (MI), Istio, Envoy, Kafka |
+| **Cloud & DevOps** | Azure (Arc, AKS, DevOps), AWS (EKS, IAM, S3), Terraform, Crossplane, GitOps (Argo CD, FluxCD), Jenkins |
+| **Monitoring & Observability** | ELK Stack, Prometheus, Grafana, Loki, OpenTelemetry, Dynatrace |
+| **Security & Policy** | Cilium, Kyverno, OPA/Gatekeeper, Trivy, Falco, Vault, External Secrets Operator |
+| **Databases & Storage** | MS SQL (Always On AG), PostgreSQL, MySQL, Azure SQL, Elasticsearch, Velero |
 | **AI & Machine Learning** | TensorFlow, Python, Azure AI Services, LLM Integration |
 
 ---
