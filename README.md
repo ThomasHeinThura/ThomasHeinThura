@@ -14,6 +14,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomas.h.thura@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thomas.heinthura)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/heinthura)
+[![Portfolio](https://img.shields.io/badge/Portfolio-thomasheinthura.github.io-4F98A3?style=for-the-badge&logo=github)](https://thomasheinthura.github.io/ThomasHeinThura)
 
 </div>
 
