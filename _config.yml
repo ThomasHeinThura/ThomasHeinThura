@@ -1,0 +1,13 @@
+title: Thomas Hein Thura
+description: Technical Manager | MCT | Kubernetes · WSO2 · Cloud-Native Architecture
+url: "https://thomasheinthura.github.io"
+baseurl: "/ThomasHeinThura"
+
+theme: jekyll-theme-midnight
+
+plugins:
+  - jekyll-seo-tag
+
+author:
+  name: Thomas Hein Thura
+  email: thomas.h.thura@gmail.com
