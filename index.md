@@ -49,14 +49,14 @@ Technical Manager and Microsoft Certified Trainer (MCT) with 8+ years of enterpr
 </div>
 
 <div class="project-card">
-<h3>SAP-to-DMS Integration — Major Distribution Group</h3>
+<h3>SAP-to-DMS Integration</h3>
 <div class="tags"><span class="tag">WSO2 Micro Integrator</span><span class="tag">SAP</span><span class="tag">REST/SOAP APIs</span><span class="tag">Kubernetes</span></div>
 <p>Implemented WSO2 Micro Integrator connecting 8 critical endpoints between SAP and core Distribution Management System. Automated inventory, POS data flow, and order processing workflows end-to-end.</p>
 <p class="result">→ Eliminated data synchronization errors across critical business processes</p>
 </div>
 
 <div class="project-card">
-<h3>Multi-Cloud WSO2 API Management — Conglomerate</h3>
+<h3>Multi-Cloud WSO2 API Management</h3>
 <div class="tags"><span class="tag">WSO2 APIM</span><span class="tag">AWS</span><span class="tag">Azure</span><span class="tag">Alibaba Cloud</span></div>
 <p>Deployed WSO2 API Manager across three cloud providers simultaneously for one of Myanmar's largest conglomerates. Unified API governance, security policy enforcement, and observability across hybrid-cloud environments.</p>
 <p class="result">→ Governed API ecosystem handling millions of daily transactions</p>
@@ -77,17 +77,10 @@ Technical Manager and Microsoft Certified Trainer (MCT) with 8+ years of enterpr
 </div>
 
 <div class="project-card">
-<h3>MSSQL Always On AG — Banking High Availability</h3>
+<h3>MSSQL Always On AG — High Availability</h3>
 <div class="tags"><span class="tag">MS SQL Server</span><span class="tag">Always On AG</span><span class="tag">Active-Active Clustering</span><span class="tag">T-SQL</span></div>
 <p>Architected Always On Availability Groups with active-active clustering and real-time replication for core banking systems. Deployed 4 production and 6 UAT HA environments with DR POC to minimize RTO/RPO.</p>
 <p class="result">→ Continuous availability with zero data loss on failover</p>
-</div>
-
-<div class="project-card">
-<h3>Banking Fraud Detection ML Model</h3>
-<div class="tags"><span class="tag">Python</span><span class="tag">TensorFlow</span><span class="tag">AWS</span><span class="tag">SMOTE</span><span class="tag">ETL Pipelines</span></div>
-<p>Built fraud detection model for banking sector addressing severe class imbalance with SMOTE techniques. Automated ETL pipeline on AWS for real-time data ingestion and model retraining workflows.</p>
-<p class="result">→ 95% accuracy, 30% improvement in model generalization</p>
 </div>
 </section>
 
