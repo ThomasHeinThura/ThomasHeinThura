@@ -1,0 +1,233 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* ── Reset & Base ── */
+* { box-sizing: border-box; }
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.7;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+/* ── Header ── */
+header {
+  text-align: center;
+  padding: 60px 0 40px;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+header h1 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  margin-bottom: 8px;
+  letter-spacing: -0.5px;
+}
+
+header p.subtitle {
+  font-size: 1rem;
+  opacity: 0.7;
+  margin-bottom: 6px;
+}
+
+header p.location {
+  font-size: 0.875rem;
+  opacity: 0.5;
+  margin-bottom: 24px;
+}
+
+/* ── Badges row ── */
+.badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+  margin-bottom: 16px;
+}
+
+/* ── Sections ── */
+section {
+  padding: 48px 0 0;
+}
+
+h2 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+  padding-bottom: 10px;
+  margin-bottom: 28px;
+  letter-spacing: -0.3px;
+}
+
+h3 {
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+/* ── Stats block ── */
+.highlight-stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 16px;
+  margin-bottom: 28px;
+}
+
+.stat-card {
+  background: rgba(255,255,255,0.05);
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+}
+
+.stat-card .number {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #79b8ff;
+  display: block;
+}
+
+.stat-card .label {
+  font-size: 0.8rem;
+  opacity: 0.6;
+  margin-top: 4px;
+}
+
+/* ── Project cards ── */
+.project-card {
+  background: rgba(255,255,255,0.04);
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 10px;
+  padding: 24px;
+  margin-bottom: 16px;
+  transition: border-color 0.2s;
+}
+
+.project-card:hover {
+  border-color: rgba(121,184,255,0.4);
+}
+
+.project-card .tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 10px 0 8px;
+}
+
+.project-card .tag {
+  background: rgba(121,184,255,0.1);
+  color: #79b8ff;
+  border-radius: 4px;
+  padding: 2px 8px;
+  font-size: 0.75rem;
+  font-family: 'SFMono-Regular', Consolas, monospace;
+}
+
+.project-card .result {
+  font-size: 0.875rem;
+  color: #56d364;
+  margin-top: 8px;
+  font-weight: 500;
+}
+
+/* ── GitHub project cards ── */
+.github-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 16px;
+}
+
+.github-card {
+  background: rgba(255,255,255,0.04);
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 10px;
+  padding: 20px;
+  transition: border-color 0.2s;
+}
+
+.github-card:hover { border-color: rgba(121,184,255,0.4); }
+
+.github-card a {
+  font-weight: 600;
+  font-size: 0.95rem;
+  text-decoration: none;
+  color: #79b8ff;
+}
+
+.github-card a:hover { text-decoration: underline; }
+
+.github-card p {
+  font-size: 0.85rem;
+  opacity: 0.7;
+  margin: 8px 0;
+}
+
+/* ── Cert table ── */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.875rem;
+}
+
+th {
+  text-align: left;
+  padding: 10px 12px;
+  border-bottom: 1px solid rgba(255,255,255,0.15);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  opacity: 0.5;
+}
+
+td {
+  padding: 10px 12px;
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+  vertical-align: top;
+}
+
+.badge-active {
+  background: rgba(86,211,100,0.15);
+  color: #56d364;
+  border-radius: 4px;
+  padding: 2px 8px;
+  font-size: 0.75rem;
+}
+
+.badge-progress {
+  background: rgba(210,153,34,0.15);
+  color: #e3b341;
+  border-radius: 4px;
+  padding: 2px 8px;
+  font-size: 0.75rem;
+}
+
+/* ── GitHub stats ── */
+.stats-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  justify-content: center;
+}
+
+/* ── Footer ── */
+footer {
+  text-align: center;
+  padding: 48px 0 32px;
+  font-size: 0.875rem;
+  opacity: 0.5;
+  border-top: 1px solid rgba(255,255,255,0.08);
+  margin-top: 64px;
+}
+
+/* ── Responsive ── */
+@media (max-width: 600px) {
+  header h1 { font-size: 1.8rem; }
+  .highlight-stats { grid-template-columns: 1fr 1fr; }
+  .github-grid { grid-template-columns: 1fr; }
+}
