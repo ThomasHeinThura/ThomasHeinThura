@@ -15,8 +15,6 @@
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thomas.heinthura)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/heinthura)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ThomasHeinThura&style=for-the-badge&color=4F98A3)
-
 </div>
 
 ---
@@ -199,20 +197,6 @@ Production-ready ELK stack via Docker Compose for enterprise log aggregation, AP
 | WSO2 Certified Micro Integrator Practitioner V4 | WSO2 | Active |
 | TensorFlow Developer Certificate | Google | 2023 |
 | EF SET English Certificate (C1 Advanced) | EF SET | Active |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Thomas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThomasHeinThura&show_icons=true&theme=transparent&title_color=4F98A3&icon_color=4F98A3&text_color=cdccca&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasHeinThura&layout=compact&theme=transparent&title_color=4F98A3&text_color=cdccca&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThomasHeinThura&bg_color=00000000&color=4F98A3&line=4F98A3&point=cdccca&hide_border=true)
-
-</div>
 
 ---
 
