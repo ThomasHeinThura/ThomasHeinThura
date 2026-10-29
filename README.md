@@ -14,6 +14,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomas.h.thura@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thomas.heinthura)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/heinthura)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/thomas-h-thura)
 [![Portfolio](https://img.shields.io/badge/Portfolio-thomasheinthura.github.io-4F98A3?style=for-the-badge&logo=github)](https://thomasheinthura.github.io/ThomasHeinThura)
 
 </div>
@@ -123,6 +124,7 @@ Earlier ML work (2019–2023): [fraud detection](https://github.com/ThomasHeinTh
 
 <div align="center">
 
-📧 thomas.h.thura@gmail.com · [LinkedIn](https://www.linkedin.com/in/thomas-hein-thura/) ·
+**Let's talk enterprise AI, API platforms and Kubernetes.**
+📧 thomas.h.thura@gmail.com · [LinkedIn](https://www.linkedin.com/in/thomas-hein-thura/) · Client names are withheld under NDA.
 
 </div>
