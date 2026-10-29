@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=3000&color=4F98A3&center=true&repeat=false&width=700&height=60&lines=Hi+there%2C+I'm+Thomas+Hein+Thura." alt="Typing SVG" />
 </a>
 
-**Technical Manager · Microsoft Certified Trainer (MCT)**  
-**Kubernetes · WSO2 · Cloud-Native Architecture · Data & AI**  
-📍 Yangon, Myanmar — Open to relocation: Germany · Ireland
+**Solutions Architect · Enterprise Solution, Data & AI · Microsoft Certified Trainer (MCT)**
+**Enterprise AI · API & Identity · Kubernetes & Multi-Cloud · Data Platforms**
+📍 Yangon, Myanmar · APAC
 
 <br/>
 
@@ -20,190 +20,109 @@
 
 ---
 
-## About Me
+## About me
 
-Technical Manager and Microsoft Certified Trainer (MCT) with **8+ years** of enterprise IT experience designing and operating production-grade platforms across Kubernetes, WSO2, DevOps, and Data Engineering. I build **scalable, secure, highly available infrastructure** for mission-critical industries — banking, telecommunications, media, and large-scale retail.
+I'm a Solutions Architect with 9 years in engineering, and I've worked in AI/ML since 2019. I lead an 18-person team and work across APAC with banks, insurers, fintechs, telecoms, media, government and conglomerates. I design agentic AI, data, API and identity platforms, and the hybrid Kubernetes and multi-cloud estates they run on.
 
-- Achieved **99.99% uptime** across production systems serving **1M+ daily transactions**
-- Reduced API latency by **70%** for a major media streaming platform on AWS
-- Led **11 engineers** across 4 teams (DevOps, DBA, AI, Presales)
-- Trained **100+ engineers** as MCT in multiple sectors
+- 40+ engagements across 30+ enterprise customers
+- API platform at **1M+ transactions a day** and **99.99% uptime**
+- ~200-core hybrid Kubernetes estate with cloud DR
+- Core banking migration from Oracle to SQL Server across 6 production environments
+- 100+ engineers and leaders trained as an MCT
 
 ```yaml
 Thomas Hein Thura:
-  role: Technical Manager & MCT
-  location: Yangon, Myanmar
-  open_to: [Germany, Ireland, Remote]
-  expertise:
-    platform_engineering: [Kubernetes, EKS, AKS, RKE2, Arc-enabled, Helm, Istio]
-    api_middleware:        [WSO2 APIM v4, WSO2 MI v4, Kafka, Envoy]
-    devops_gitops:         [Argo CD, FluxCD, Terraform, Crossplane, Jenkins]
-    cloud:                 [AWS, Azure, Alibaba Cloud]
-    observability:         [LGTM Stack, ELK, Prometheus, OpenTelemetry, Atatus]
-    security:              [Cilium, Kyverno, OPA, Trivy, Falco, Vault, PCI DSS v4.0]
-    databases:             [MSSQL Always On AG, PostgreSQL, MySQL, Oracle]
-    ai_data:               [Python, TensorFlow, Azure AI, Airflow, MLOps, ETL/ELT]
-  languages: [English C1, Burmese Native]
+  role: Solutions Architect, Enterprise Solution, Data & AI
+  region: APAC
+  focus:
+    ai:         [Agentic AI, Copilot Studio, Azure AI Foundry, Bedrock, RAG, vLLM, Langfuse, MCP]
+    api:        [WSO2 APIM / MI / IS, Tyk, Keycloak, Entra ID, OAuth2, OIDC]
+    platforms:  [Kubernetes, RKE2, EKS, AKS, Istio, Cilium, Argo CD, Terraform, Ansible]
+    cloud:      [AWS, Azure, GCP, Alibaba Cloud, Huawei Cloud]
+    data:       [SQL Server Always On, PostgreSQL, Oracle Data Guard, Microsoft Fabric, Redshift]
+    security:   [PCI DSS v4.0, CIS, Kyverno, Falco, Vault, OpenTelemetry]
+  languages: [English C1, Burmese native, German A1]
 ```
 
 ---
 
-## Enterprise Project Experience
-
-
-### Banking API Gateway — High Availability & Disaster Recovery
-`WSO2 APIM v4` `Kubernetes` `ELK Stack` `Prometheus` `Grafana`
-
-Architected mission-critical WSO2 API Manager on Kubernetes with full HA/DR for a prominent bank. Implemented ELK-based API analytics and deep observability. Defined SLIs/SLOs with incident runbooks.
-**Result: 99.99% uptime, near-zero RPO/RTO on failover.**
-
----
-
-### Media Streaming API Platform — AWS Cloud-Native
-`WSO2 APIM` `AWS EKS` `ELK Stack` `Auto-scaling`
-
-Cloud-native API gateway on AWS for a major television channel handling high-traffic live broadcast loads. Advanced ELK monitoring for real-time traffic insights and anomaly detection.
-**Result: API latency reduced by 70%, zero downtime during peak broadcast events.**
-
----
-
-### SAP-to-DMS Integration
-`WSO2 Micro Integrator` `SAP` `REST/SOAP APIs` `Kubernetes`
-
-Implemented WSO2 Micro Integrator connecting **8 critical endpoints** between SAP and core Distribution Management System. Automated inventory, POS data flow, and order processing workflows.
-**Result: Eliminated data synchronization errors across critical business processes.**
-
----
-
-### Multi-Cloud WSO2 API Management
-`WSO2 APIM` `AWS` `Azure` `Alibaba Cloud`
-
-Deployed WSO2 API Manager across three cloud providers simultaneously for one of Myanmar's largest conglomerates. Unified API governance, security, and observability across hybrid-cloud environments.
-**Result: Governed API ecosystem handling millions of daily transactions.**
-
----
-
-### AWS EKS GitOps Infrastructure
-`AWS EKS` `Terraform` `Argo CD` `Helm` `IaC`
-
-Designed a complete AWS EKS infrastructure with Terraform IaC. Established GitOps CI/CD pipeline with Argo CD — drift detection, automated rollbacks, and standardized deployments across environments.
-**Result: System reliability improved by 40%, and deployment velocity significantly increased.**
-
----
-
-### Kubernetes Modernization — VM to Microservices
-`Kubernetes` `Docker` `Helm` `CI/CD` `RBAC`
-
-Migrated monolithic CRM, HRM, and Loyalty systems from legacy VMs to containerized microservices. Designed cluster architecture with namespace isolation, RBAC, resource quotas, and network policies.
-**Result: Operational overhead reduced 30%, system downtime reduced 60%.**
-
----
-
-### MSSQL Always On AG
-`MS SQL Server` `Always On AG` `Active-Active Clustering` `T-SQL`
-
-Architected Always On Availability Groups with active-active clustering and real-time replication for core banking systems. Deployed 4 production and 6 UAT HA environments. Spearheaded DR POC to minimize RTO/RPO.
-**Result: Continuous availability with zero data loss on failover.**
-
----
-
-
-## Open Source & GitHub Projects
-
-> Tools, configurations, and solutions I've published for the community.
+## Open source I'm building
 
 <table>
 <tr>
 <td width="50%">
 
-### WSO2 APIM + IS + Istio on Kubernetes
-[![Repo](https://img.shields.io/badge/GitHub-WSO2_ISTIO_APIM_IS_Kube-4F98A3?style=flat&logo=github)](https://github.com/ThomasHeinThura/WSO2_ISTIO_APIM_IS_Kube)
+### TaskDesk
+[![Repo](https://img.shields.io/badge/GitHub-ticketing-4F98A3?style=flat&logo=github)](https://github.com/ThomasHeinThura/ticketing)
 
-Production-ready Kubernetes deployment of WSO2 API Manager and Identity Server with Istio service mesh, mTLS, and secure API exposure.
+A self-hostable, multi-tenant service desk and work-management platform. It includes an MCP server, so AI agents can work tickets. Extended from Kaneo.
 
-`Kubernetes` `WSO2 APIM` `WSO2 IS` `Istio`
-
-</td>
-<td width="50%">
-
-### WSO2 APIM + ELK Monitoring (Helm)
-[![Repo](https://img.shields.io/badge/GitHub-wso2_apim_elk_helm-4F98A3?style=flat&logo=github)](https://github.com/ThomasHeinThura/wso2_apim_elk_helm)
-
-Helm-based ELK observability stack for WSO2 API Manager on Kubernetes. Full API analytics, log aggregation, and performance dashboards.
-
-`Kubernetes` `WSO2 APIM` `ELK Stack` `Helm`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### WSO2 IS + .NET SSO Integration
-[![Repo](https://img.shields.io/badge/GitHub-WSO2_IS_Dotnet_SSO-4F98A3?style=flat&logo=github)](https://github.com/ThomasHeinThura/WSO2_IS_Dotnet_SSO)
-
-OAuth2/OIDC SSO integration between WSO2 Identity Server and .NET enterprise applications.
-
-`WSO2 IS` `OAuth2` `OIDC` `C#` `.NET`
+`TypeScript` `PostgreSQL` `Helm` `MCP` `cosign`
 
 </td>
 <td width="50%">
 
-### Credit Card Fraud Detection ML
-[![Repo](https://img.shields.io/badge/GitHub-Credit_Card_Fraud_Detection-4F98A3?style=flat&logo=github)](https://github.com/ThomasHeinThura/Credit-Card-Fraud-Detection)
+### autoprovision
+[![Repo](https://img.shields.io/badge/GitHub-autoprovision-4F98A3?style=flat&logo=github)](https://github.com/ThomasHeinThura/autoprovision)
 
-ML model for financial fraud detection with SMOTE oversampling. Multiple classifiers compared achieving 95% accuracy on imbalanced datasets.
+An air-gapped infrastructure control plane. It provisions RKE2 Kubernetes, SQL Server Always On and WSO2 across 19 VMs from one jump host.
 
-`Python` `Scikit-learn` `SMOTE` `FinTech`
+`Ansible` `FastAPI` `RKE2` `Istio`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### TensorFlow Deep Learning Projects
-[![Repo](https://img.shields.io/badge/GitHub-Tensorflow_projects-4F98A3?style=flat&logo=github)](https://github.com/ThomasHeinThura/Tensorflow_projects)
+### one-assistant
+[![Repo](https://img.shields.io/badge/GitHub-one--assistant-4F98A3?style=flat&logo=github)](https://github.com/ThomasHeinThura/one-assistant)
 
-12 deep learning projects — CNNs, NLP, image segmentation, time series — CIFAR10, GI Tract segmentation, tweet classification, and more.
+An AI work assistant with planner, worker and critic agents, Qdrant RAG and Langfuse tracing.
 
-`TensorFlow` `Python` `Deep Learning` `NLP` `CV`
+`FastAPI` `AgentScope` `Qdrant` `Langfuse`
 
 </td>
 <td width="50%">
 
-### ELK Stack Docker Setup
-[![Repo](https://img.shields.io/badge/GitHub-Elk_docker-4F98A3?style=flat&logo=github)](https://github.com/ThomasHeinThura/Elk-docker)
+### WSO2 reference stacks
+[![Repo](https://img.shields.io/badge/GitHub-wso2--apim--dockercompose--full-4F98A3?style=flat&logo=github)](https://github.com/ThomasHeinThura/wso2-apim-dockercompose-full)
 
-Production-ready ELK stack via Docker Compose for enterprise log aggregation, API monitoring, and APM.
+API Manager and Identity Server on Docker Compose and on Kubernetes with Istio, plus ELK monitoring.
 
-`Docker` `ELK Stack` `Observability` `Logging`
+`WSO2` `Istio` `Traefik` `Helm` `ELK`
 
 </td>
 </tr>
 </table>
 
+Earlier ML work (2019–2023): [fraud detection](https://github.com/ThomasHeinThura/Credit-Card-Fraud-Detection), [GI-tract segmentation](https://github.com/ThomasHeinThura/UW-Madison-GI-Tract), [text summarisation](https://github.com/ThomasHeinThura/Text_summarization_website), [12 TensorFlow projects](https://github.com/ThomasHeinThura/Tensorflow_projects).
+
+---
+
+## Speaking
+
+- **VarCamp 2026** (registered): *Enterprise AI Blueprint: Architecture, Design and Field Lessons across AWS, Azure, GCP and On-Premises*
+- **VarCamp 2025**: *Every IaC is not CI/CD. Every Automation is not IaC.*
+- **WSO2 × BIM 2025**: *Beyond Access: Empowering IAM with Full-Stack Observability*
+- **VarCamp 2024**: MLOps
+
 ---
 
 ## Certifications
 
-| Certification | Issuer | Status |
-|---|---|---|
-| Certified Kubernetes Administrator (CKA) | CNCF / Linux Foundation | Recertification in progress |
-| Certified Kubernetes Application Developer (CKAD) | CNCF / Linux Foundation | Recertification in progress |
-| Certified Kubernetes Security Specialist (CKS) | CNCF / Linux Foundation | Recertification in progress |
-| AWS Certified Solutions Architect – Associate | Amazon Web Services | Recertification in progress |
-| Microsoft Certified Trainer (MCT) | Microsoft | Active |
-| Azure AI Engineer Associate (AI-102) | Microsoft | Active |
-| Azure Database Administrator Associate (DP-300) | Microsoft | Active |
-| WSO2 Certified API Manager Practitioner V4 | WSO2 | Active |
-| WSO2 Certified Micro Integrator Practitioner V4 | WSO2 | Active |
-| TensorFlow Developer Certificate | Google | 2023 |
-| EF SET English Certificate (C1 Advanced) | EF SET | Active |
+| Certification | Status |
+|---|---|
+| Microsoft Certified Trainer (MCT) | Active |
+| Azure AI Engineer Associate (AI-102) | Active |
+| Azure Database Administrator Associate (DP-300) | Active |
+| WSO2 API Manager Practitioner V4 | Active |
+| WSO2 Micro Integrator Practitioner V4 | Active |
+| CKA · CKAD · CKS · AWS Solutions Architect – Associate · TensorFlow Developer | Lapsed |
 
 ---
 
 <div align="center">
 
-**Open to senior platform engineering, SRE, and cloud-native architecture roles in Europe.**  
-📧 thomas.h.thura@gmail.com · [LinkedIn](https://www.linkedin.com/in/thomas-hein-thura/) · [GitHub](https://github.com/ThomasHeinThura)
+📧 thomas.h.thura@gmail.com · [LinkedIn](https://www.linkedin.com/in/thomas-hein-thura/) ·
 
 </div>
