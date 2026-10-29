@@ -6,12 +6,13 @@ title: Thomas Hein Thura
 <header>
 <h1>Thomas Hein Thura</h1>
 <p class="subtitle">Solutions Architect · Enterprise Solution, Data &amp; AI · Microsoft Certified Trainer<br/>Enterprise AI · API &amp; Identity · Kubernetes &amp; Multi-Cloud · Data Platforms</p>
-<p class="location">📍 Yangon, Myanmar · APAC </p>
+<p class="location">📍 Yangon, Myanmar · APAC</p>
 <div class="badges">
 <a href="https://www.linkedin.com/in/thomas-hein-thura/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:thomas.h.thura@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://medium.com/@thomas.heinthura"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 <a href="https://www.kaggle.com/heinthura"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+<a href="https://devpost.com/thomas-h-thura"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost"/></a>
 <a href="https://github.com/ThomasHeinThura"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 </header>
